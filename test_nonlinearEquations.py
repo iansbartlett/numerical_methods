@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 31 22:04:41 2016
 
-@author: dinah
+@author: iansbartlett
 """
 import nonlinearEquations as nonlin
 

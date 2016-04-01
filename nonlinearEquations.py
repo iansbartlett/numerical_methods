@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 31 21:20:01 2016
 
-@author: dinah
+@author: iansbartlett
 
 Solving nonlinear equations for MATH2089
 """
